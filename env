@@ -1,0 +1,6 @@
+BOT_TOKEN=your_bot_token_here
+DB_NAME=npf_platform
+DB_USER=postgres
+DB_PASS=your_postgres_password_here
+DB_HOST=localhost
+DB_PORT=5432
